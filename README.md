@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yy933
-- 👀 I’m interested in movies, sports, and cooking
+- 👋 Hi, I’m Emily
 - 🌱 I’m currently learning Javascript, HTML, CSS
+- 🫖 Tea addict
 
 
 <!---
